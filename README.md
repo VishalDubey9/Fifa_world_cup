@@ -1,5 +1,6 @@
 # Dashboard Overview
-![Screenshot 2024-02-07 100020](https://github.com/VishalDubey9/Fifa_world_cup/assets/154626826/3d4260da-c91f-4d15-8c6e-227978ebb179)
+![Uploading Screenshot 2024-02-07 102907.png…]()
+
 
 # Fifa_worldcup_matches
 ![Screenshot 2024-01-27 100633](https://github.com/VishalDubey9/Fifa_world_cup/assets/154626826/f82333e5-076d-46d7-a52e-bfbe94fe8a25)
